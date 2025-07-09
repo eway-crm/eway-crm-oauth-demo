@@ -1,4 +1,4 @@
-h1. eWay-CRM OAuth Demo
+# eWay-CRM OAuth Demo
 
 1. Create OAuth client in eWay-CRM:
 
